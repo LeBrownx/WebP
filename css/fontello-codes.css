@@ -1,0 +1,9 @@
+
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-attach:before { content: '\e801'; } /* '' */
+.icon-print:before { content: '\e802'; } /* '' */
+.icon-pipette:before { content: '\e803'; } /* '' */
+.icon-user:before { content: '\e804'; } /* '' */
+.icon-mail:before { content: '\e805'; } /* '' */
+.icon-docs:before { content: '\f0c5'; } /* '' */
+.icon-facebook-rect:before { content: '\f301'; } /* '' */
